@@ -1,6 +1,6 @@
 {
-  "name": "steam_items_for_gems",
-  "description": "Buys/sells cards and gems",
+  "name": "csgo-pubg-overpay-bot",
+  "description": "Buys/sells pubg and csgo items for % overpay",
   "version": "1.0.0",
   "main": "app.js",
   "author": "gt2king",
