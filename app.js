@@ -54,9 +54,6 @@ function getPubgPrices() {
 
 }
 
-
-
-
 const client = new SteamUser();
 
 const community = new SteamCommunity();
